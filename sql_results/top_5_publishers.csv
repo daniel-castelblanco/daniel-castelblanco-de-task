@@ -1,0 +1,61 @@
+year,quarter,publisher,total_points,quarterly_rank
+2023.0,4,Scholastic,331,1
+2023.0,4,Red Tower,152,2
+2023.0,4,Simon & Schuster Audio,133,3
+2023.0,4,Doubleday,127,4
+2023.0,4,Simon & Schuster,123,5
+2023.0,3,Scholastic,369,1
+2023.0,3,Vintage,176,2
+2023.0,3,Doubleday,139,3
+2023.0,3,Grand Central,137,4
+2023.0,3,Simon & Schuster,137,4
+2023.0,2,Scholastic,341,1
+2023.0,2,Random House Audio,222,2
+2023.0,2,Doubleday,174,3
+2023.0,2,Atria,164,4
+2023.0,2,Grand Central,137,5
+2023.0,1,Scholastic,319,1
+2023.0,1,Atria,236,2
+2023.0,1,Random House,170,3
+2023.0,1,Random House Audio,164,4
+2023.0,1,Simon & Schuster Audio,147,5
+2022.0,4,Scholastic,233,1
+2022.0,4,Atria,231,2
+2022.0,4,Simon & Schuster Audio,172,3
+2022.0,4,Simon & Schuster,164,4
+2022.0,4,Grand Central,150,5
+2022.0,3,Scholastic,278,1
+2022.0,3,Simon & Schuster,214,2
+2022.0,3,Grand Central,182,3
+2022.0,3,Atria,164,4
+2022.0,3,Random House,161,5
+2022.0,2,Scholastic,300,1
+2022.0,2,Random House,151,2
+2022.0,2,Delacorte,148,3
+2022.0,2,Putnam,146,4
+2022.0,2,"Little, Brown",144,5
+2022.0,1,Scholastic,241,1
+2022.0,1,Atria,151,2
+2022.0,1,Grand Central,139,3
+2022.0,1,Avery,121,4
+2022.0,1,Random House,118,5
+2021.0,4,Scholastic,280,1
+2021.0,4,Viking,141,2
+2021.0,4,Delacorte,140,3
+2021.0,4,Harper,135,4
+2021.0,4,Grand Central,130,5
+2021.0,3,Scholastic,266,1
+2021.0,3,Houghton Mifflin Harcourt,138,2
+2021.0,3,Threshold Editions,129,3
+2021.0,3,Avery,126,4
+2021.0,3,Random House Audio,103,5
+2021.0,2,Scholastic,310,1
+2021.0,2,"Little, Brown",174,2
+2021.0,2,St. Martin's,134,3
+2021.0,2,Square Fish,122,4
+2021.0,2,HarperCollins,121,5
+2021.0,1,Scholastic,380,1
+2021.0,1,Random House Audio,278,2
+2021.0,1,Crown,187,3
+2021.0,1,Avon,185,4
+2021.0,1,HarperCollins,181,5

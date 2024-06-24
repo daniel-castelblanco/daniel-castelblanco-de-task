@@ -1,0 +1,7 @@
+requests
+sqlalchemy
+psycopg2-binary
+pytest
+pytest-sqlalchemy
+icecream
+pandas
