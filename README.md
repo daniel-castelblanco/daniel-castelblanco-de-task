@@ -16,7 +16,8 @@ It creates and populates four main tables in the PostgreSQL database:
 
 For a detailed visualization of the results from the SQL queries, please view the [SQL Queries Report](https://lookerstudio.google.com/reporting/369a0eea-0e2e-427c-8bd7-ed93e7fc2b02).
 
-[![SQL Queries Report](https://drive.google.com/drive/folders/1RLehTzOqnGg623aiyFr0vGzbdFQC5oyZ)](https://lookerstudio.google.com/reporting/369a0eea-0e2e-427c-8bd7-ed93e7fc2b02)
+[![SQL Queries Report](https://github.com/daniel-castelblanco/daniel-castelblanco-de-task/assets/147197232/9baabeeb-5899-4a35-b57d-a138f3ec2c08)](https://lookerstudio.google.com/reporting/369a0eea-0e2e-427c-8bd7-ed93e7fc2b02)
+
 
 
 ## Prerequisites
